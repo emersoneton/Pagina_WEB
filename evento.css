@@ -1,0 +1,80 @@
+.Lays{
+        width: 100vw;
+        height: 100vh;
+        background: #6C7A89;
+        display:  block;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center
+}
+
+.tela1{
+  background-color: #252323;
+  height: 50px;
+}
+
+.img{
+  display:  block;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center
+}
+
+.cor{
+  color: #fff;
+
+}
+
+.cor2{
+  color: #f00;
+  width: 100%;
+}
+
+.centralizar{
+  text-align: center;
+}
+
+.margem-redes{
+  display: inline;
+  margin-right: 10px;
+}
+
+.margem-right{
+ width: 100%;
+}
+
+{
+  top: 0px;
+  position: fixed;
+}
+
+.margem{
+  display: inline;
+  margin-right: 80px;
+}
+
+.precos{
+         width: 450px;
+         height: 20vh;
+         background: #6C7A89;
+         display: flex;
+         margin: 0 auto;
+         flex-direction: row;
+         justify-content: center;
+         align-items: center;
+}
+
+.centralizando {
+  margin: 0 auto;
+  width: 900px;
+  padding: 10px;
+}
+
+.preco2{
+
+  align-items: center;
+}
+
+body{
+    background-color: #082767;
+}
